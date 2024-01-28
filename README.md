@@ -15,8 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap, js, mysql, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,mysql,vscode)](https://skillicons.dev)
 
 <h3 align="left">Want to learn:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs, express, react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,express,react)](https://skillicons.dev)
